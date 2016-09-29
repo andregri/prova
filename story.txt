@@ -1,2 +1,3 @@
 "C'era una volta..." 
 "un mostro cattivo" 
+"e un eroe molto buono"
